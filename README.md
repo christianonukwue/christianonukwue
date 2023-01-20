@@ -1,17 +1,12 @@
-### Hi there 👋
-🔭 I’m currently a Software Engineer on ALX 
+<h2> Hi, I'm Christian Onukwue! </h2>
+<p><em>Software Enginner at <a href="https://www.alxafrica.com/">Alx</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Developer @ <a href="https://www.fiverr.com/share/ypRrrb">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**christianonukwue/christianonukwue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: Chris_](https://img.shields.io/twitter/follow/Chris4onu?style=social)](https://twitter.com/Chris4onu)
+[![Linkedin: Christian Onukwue](https://img.shields.io/badge/-Christian%20Onukwue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-onukwue-562084103/)](https://www.linkedin.com/in/christian-onukwue-562084103/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently a Software Engineer on ALX 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<em> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you !</b> :)</em>
+
+---
